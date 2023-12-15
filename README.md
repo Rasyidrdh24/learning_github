@@ -1,2 +1,2 @@
 # learning_github
-githun for myskill learning
+github for myskill learning
